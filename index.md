@@ -1,6 +1,6 @@
 <html>
   <head>
-    <meta http-equiv="refresh" content="1; url='https://a7mand.github.io/home'" />
+    <meta http-equiv="refresh" content="0.1; url='https://a7mand.github.io/home'" />
   </head>
   <body>
     <p>Please follow <a href="https://a7mand.github.io/home">this link</a>.</p>
