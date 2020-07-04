@@ -1,3 +1,13 @@
+<html>
+  <head>
+    <meta http-equiv="refresh" content="1; url='https://a7mand.github.io/home'" />
+  </head>
+  <body>
+    <p>Please follow <a href="https://a7mand.github.io/home">this link</a>.</p>
+  </body>
+</html>
+
+<!--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/a7mand/a7mand.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +45,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->
