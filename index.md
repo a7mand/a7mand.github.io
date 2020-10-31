@@ -1,6 +1,6 @@
 <html>
   <head>
-    <!-- <title>a7mand</title> -->
+    <title>a7mand</title>
     <!-- <meta http-equiv="refresh" content="0.1; url='https://a7mand.github.io/'" /> -->
   </head>
   <body>
